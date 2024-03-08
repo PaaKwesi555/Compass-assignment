@@ -1,0 +1,81 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+
+.welcome {
+  color: rgb(135, 215, 215);
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.div1 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
+
+.r1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.r2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+p {
+  color: gray;
+}
+
+.r-title {
+  color: rgb(135, 215, 215);
+}
+
+img {
+  border-radius: 15px;
+}
+
+.bi-patch-check {
+  color: rgb(135, 215, 215);
+}
+
+.bi-shield-check {
+  color: rgb(135, 215, 215);
+}
+
+.airplane {
+  border-radius: 15px;
+  background-color: rgb(78, 180, 146);
+  height: 250px;
+  width: 200px;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+.bi-airplane {
+  color: white;
+  font-size: 50px;
+  margin-left: 25px;
+}
+
+.airplane-text {
+  color: white;
+}
+
+.airplane-content {
+  margin-left: 50px;
+}
+.aeroplane {
+  rotate: 30deg;
+  margin-top: 20px;
+}
